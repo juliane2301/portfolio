@@ -3,10 +3,12 @@
 Meu portfólio online desenvolvido para apresentar projetos, habilidades e experiências na área de desenvolvimento web.  
 
 ## 🚀 Tecnologias usadas
+🚀 Tecnologias usadas
 - React
 - Sass
 - JavaScript
 - HTML & CSS
+
 
 ## 💼 Projetos
 - 🔗 Projeto 1 – (adicione link ou descrição)
