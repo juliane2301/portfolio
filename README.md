@@ -9,7 +9,7 @@ Meu portfólio online desenvolvido para apresentar projetos, habilidades e exper
 
 
 ## 💼 Projetos
-- 🔗 Projeto 1 – (https://www.instagram.com/juliane_organizerpb?igsh=cTc0M3J1djBjcTl1&utm_source=qr)
+- 🔗 Projeto 1 – (https://julianedev.vercel.app/)
 - 🔗 Projeto 2 – (adicione link ou descrição)
 - 🔗 Projeto 3 – (adicione link ou descrição)
 
